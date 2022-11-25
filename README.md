@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**sguler1/sguler1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m Full Stack Automation Engineer
 - 💬 Ask me about questions about automation
