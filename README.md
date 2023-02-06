@@ -8,6 +8,7 @@
 
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+ <!-- Java -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a> 
 <!-- Selenium -->
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="selenium" width="40" height="40"/> </a> 
