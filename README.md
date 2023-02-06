@@ -8,9 +8,9 @@
 
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
- <!-- Java --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> </a>
+ <!-- Java --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
  <!-- Selenium -->
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="selenium" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="selenium" width="40" height="40"/> </a>  </a> 
  <!-- Appium --> <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="40" height="40"/></a> <!-- Appium Inspector --> <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
 <p align="left">
 <a href="https://www.linkedin.com/in/samet-g%C3%BCler122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SametGuler" height="20" width="30" /></a>
