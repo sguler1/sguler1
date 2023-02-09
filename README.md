@@ -16,6 +16,8 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="selenium" width="40" height="40"/> </a> 
 <!-- Cucumber -->
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a> 
+ <!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>
  <!-- Appium --> <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="appium" width="40" height="40"/></a> <!-- Appium Inspector --> <a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
 <p align="left">
 <a href="https://www.linkedin.com/in/samet-g%C3%BCler122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SametGuler" height="20" width="30" /></a>
