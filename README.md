@@ -5,7 +5,7 @@ I am Samet and an automation tester.
 
 <h2 align="left">I can be reached here:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/tarikkilickaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarikkilickaya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samet-g%C3%BCler122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sametguler" height="30" width="40" /></a>
 </p>
 
 
